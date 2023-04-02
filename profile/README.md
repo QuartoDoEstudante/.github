@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, bem vindo
+
+Esse é a organização quarto do estudante, uma Organização feito por universitarios de Ciencias da Computação
+
 
 <!--
 
