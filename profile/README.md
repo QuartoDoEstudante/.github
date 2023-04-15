@@ -1,5 +1,5 @@
 # Quarto do Estudante
-> Somos um grupo de estudantes de Ciencia da Computação, que nos unimos para um trabalho da faculdade, e talvez quem sabe lançamos um produto real. 
+> Somos um grupo de estudantes de Ciencia da Computação e Software Engineer, que nos unimos para um trabalho da faculdade, e talvez quem sabe lançamos um produto real. 
 Estamos começando agora mas não deixe de nos acompanhar para ver como estamos evoluindo.
 
 > Quarto do Estudante é um aplicativo web e móvel projetado para conectar estudantes com proprietários que possuem quartos para alugar. Com o Quarto do Estudante, os estudantes podem encontrar facilmente acomodações adequadas e acessíveis, enquanto os proprietários podem anunciar facilmente seus quartos disponíveis para um público mais amplo.
