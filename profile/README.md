@@ -8,7 +8,7 @@ Quarto do Estudante é um aplicativo web e móvel projetado para conectar estuda
 Quarto do Estudante oferece os seguintes recursos:
 ### Para Estudantes
 - Busque quartos disponíveis com base em localização, faixa de preço e outras preferências
--- Veja descrições detalhadas e fotos dos quartos disponíveis
+- Veja descrições detalhadas e fotos dos quartos disponíveis
 - Contate diretamente os proprietários através do aplicativo para agendar uma visita ou fazer perguntas
 - Salve quartos favoritos para referência futura
 
